@@ -1,4 +1,5 @@
-This project lists out all the major character of the famous breaking bad cast using the api: https://breakingbadapi.com/documentation
+This project lists out all the major character of the famous breaking bad cast in a very interesting way. 
+I have used the api: https://breakingbadapi.com/documentation
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
